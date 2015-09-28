@@ -16,7 +16,7 @@
     "dll",
     "info"
   ],
-  "author": "Nicolas Spiric",
+  "author": "Nicolas Spiric <nspiric@nspx.ca> (http://spinico.net)",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/spinico/rcinfo/issues"
